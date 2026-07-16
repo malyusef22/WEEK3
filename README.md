@@ -20,14 +20,14 @@ src/main/resources/application.properties
 ```
 with your MySQL root password. Change the username too when needed.
 
-5. In Eclipse select:
+4. In Eclipse select:
 
 ```text
 File → Import → Maven → Existing Maven Projects
 ```
 
-6. Choose the project folder and click **Finish**.
-7. Right-click the project:
+5. Choose the project folder and click **Finish**.
+6. Right-click the project:
 
 ```text
 Run As → Spring Boot App
